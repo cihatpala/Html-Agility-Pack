@@ -1,0 +1,13 @@
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.exe.config
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.exe
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.xml
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojAssemblyReference.cache
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.Form1.resources
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.Properties.Resources.resources
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csproj.GenerateResource.cache
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csproj.CoreCompileInputs.cache
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csproj.CopyComplete
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.exe
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlParsers\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
